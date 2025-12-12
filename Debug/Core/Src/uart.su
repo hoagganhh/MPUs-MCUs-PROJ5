@@ -1,0 +1,4 @@
+uart.c:24:6:HAL_UART_RxCpltCallback	16	static
+uart.c:38:6:receive_enable_wrapper	8	static
+uart.c:43:6:command_parser_fsm	40	static
+uart.c:118:6:uart_communication_fsm	8	static
