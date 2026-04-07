@@ -76,5 +76,5 @@ Example Commands:
 
 !OK#: Acknowledge data receipt and stop sending.
 
-📝 Author
+Author
 Nguyen Hoang Anh - Ho Chi Minh city University of Technology (HCMUT).
